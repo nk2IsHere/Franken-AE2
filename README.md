@@ -4,7 +4,7 @@
 
 # Frankenstein Applied Energistics 2 (Fabric v1.21.1+)
 
-based on v19.1.2-beta for v1.21.1 NeoForge
+based on v19.1.3-beta for v1.21.1 NeoForge
 
 ## What
 
